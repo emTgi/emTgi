@@ -1,22 +1,20 @@
 # Hi there 👋
 
-
+### 🔍 About Me
+I'm Kamil, a self-taught Data Analyst who found his passion for data analytics in 2021 during a year-long work placement. I've always liked working with numbers and solving complex math problems or puzzles, so when I discovered the world of data analytics I was immediately captivated by it. The challenge of uncovering stories by diving deep into data, identifying trends and trying to make sense of the numbers is what fuels my passion every day.
 
 ---
 
 ### 🔧 Tools & Technologies 
 
-- **SQL** 📊: 
-  ![Progress](https://progress-bar.dev/90/?scale=100&title=proficiency&width=150&color=brightgreen)
+- 📊**SQL** 
 
-- **Power BI** 📈: 
-  ![Progress](https://progress-bar.dev/80/?scale=100&title=proficiency&width=150&color=green)
+- 📈**Power BI** 
 
-- **Excel** 📑: 
-  ![Progress](https://progress-bar.dev/85/?scale=100&title=proficiency&width=150&color=blue)
+- 📑**Excel**
 
-- **Python** 🐍 (Currently Learning): 
-  ![Progress](https://progress-bar.dev/50/?scale=100&title=proficiency&width=150&color=yellow)
+- 📈**Tableau**
+*Recently started learning and enhancing my Python skills. 🐍*
 
 ---
 
@@ -29,7 +27,6 @@
 2. **[8 Week SQL Challenge](https://github.com/emTgi/8_Week_SQL_Challenge)**: 
     - 🛠 **Tools**: SQL
     - 📝 **Description**: Solutions to Danny Ma's 8 Week SQL Challenge. 8 different case studies from various industries highlighting my expertise in problem-solving and SQL query writing using functions like CTEs or window functions. 
-
 
 ---
 
