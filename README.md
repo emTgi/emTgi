@@ -31,6 +31,6 @@ I'm Kamil, a self-taught Data Analyst who found his passion for data analytics i
 
 ---
 
-🔗 Let's connect! 
+### 🔗 Let's connect! 
 
 [LinkedIn](https://www.linkedin.com/in/kamilplaminiak/)
