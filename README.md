@@ -14,6 +14,7 @@ I'm Kamil, a self-taught Data Analyst who found his passion for data analytics i
 - 📑**Excel**
 
 - 📈**Tableau**
+
 *Recently started learning and enhancing my Python skills. 🐍*
 
 ---
@@ -31,5 +32,5 @@ I'm Kamil, a self-taught Data Analyst who found his passion for data analytics i
 ---
 
 🔗 Let's connect! 
-[LinkedIn](https://www.linkedin.com/in/kamilplaminiak/)
 
+[LinkedIn](https://www.linkedin.com/in/kamilplaminiak/)
